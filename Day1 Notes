@@ -1,6 +1,6 @@
 Neural Networks
 A Neural Network (NN) is a computational model inspired by the human brain, consisting of interconnected nodes (neurons) that process data and learn patterns.
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 History Of Neural Netwroks:
 1943 - First Artifical Neuron Model By McCulloch And Pitts.
 1958 - Rosenblatt Develops The Perception.
@@ -8,12 +8,12 @@ History Of Neural Netwroks:
 1986 - Hinton Introduces Backpropagation.
 2012 - CNN Wins ImageNet Competition Boosting Deep Learning.
 2020 - Transformers Advance AI In NLP And Generative Models.
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Basic Structure:
 * Input Layer – Receives raw data
 * Hidden Layer(s) – Processes data using weights and activation functions
 * Output Layer – Produces predictions or classifications
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Neural Network Terminologies
 1. Neuron : Basic processing unit that mimics a brain cell.
 2. Weight : Value that controls the influence of an input.
@@ -39,3 +39,66 @@ Neural Network Terminologies
 19. Dropout : Randomly disables neurons during training.
 20. Optimizer : Algorithm used to update weights.
 (Adam, SGD)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+How Neural Networks Work
+* Input data is multiplied by weights
+* Bias is added
+* Activation function is applied
+* Error is calculated
+* Weights are updated using backpropagation
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Advantages
+* Learns complex patterns
+* Handles non-linear data
+* Improves performance with more data
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Limitations
+* Requires large datasets
+* High computational cost
+* Less interpretable (black-box nature)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Real-Time Use Cases of Neural Networks
+1. Healthcare
+-> Disease detection from X-rays and MRI scans
+-> Heart disease and diabetes prediction
+-> Medical chatbots for patient support
+2. Banking & Finance
+-> Real-time fraud detection
+-> Credit scoring systems
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Deep Learning
+Deep Learning (DL) is a subset of machine learning that uses multi-layered neural networks (deep neural networks) to automatically learn high-level features from large datasets.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Key Concepts 
+1. Deep Neural Network (DNN): Neural network with many hidden layers
+2. Feature Learning: Automatically extracts features from raw data
+3. Activation Functions: Enable learning of complex patterns (ReLU, Softmax)
+4. Backpropagation: Updates weights using error
+5. Loss Function: Measures prediction error
+6. Optimizer: Minimizes loss (Adam, SGD)
+7. GPU/TPU: Hardware used to speed up training
+8. Big Data: Large datasets required for accuracy
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Types of Deep Learning Models
+1. CNN (Convolutional Neural Network): Image & video processing
+2. RNN (Recurrent Neural Network): Sequential data
+3. LSTM: Long-term sequence learning
+4. Transformers: Language models (LLMs like GPT)
+5. Autoencoders: Data compression & anomaly detection
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Real-Time Use Cases
+* Healthcare: Disease detection from scans
+* Self-Driving Cars: Object & lane detection
+* Chatbots: NLP & conversational AI
+* Finance: Fraud detection
+* E-Commerce: Recommendation systems
+* Voice Assistants: Speech recognition
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Advantages
+-> High accuracy
+-> Automatic feature extraction
+-> Handles complex data (images, text, audio)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Limitations
+-> Needs large dataHigh computational cost
+-> Less interpretable
