@@ -1,3 +1,41 @@
 Neural Networks
 A Neural Network (NN) is a computational model inspired by the human brain, consisting of interconnected nodes (neurons) that process data and learn patterns.
 
+History Of Neural Netwroks:
+1943 - First Artifical Neuron Model By McCulloch And Pitts.
+1958 - Rosenblatt Develops The Perception.
+1970 - Al Winter Due to Perceptron Limitations.
+1986 - Hinton Introduces Backpropagation.
+2012 - CNN Wins ImageNet Competition Boosting Deep Learning.
+2020 - Transformers Advance AI In NLP And Generative Models.
+
+Basic Structure:
+* Input Layer – Receives raw data
+* Hidden Layer(s) – Processes data using weights and activation functions
+* Output Layer – Produces predictions or classifications
+
+Neural Network Terminologies
+1. Neuron : Basic processing unit that mimics a brain cell.
+2. Weight : Value that controls the influence of an input.
+3. Bias: Extra value added to improve model flexibility.
+4. Input Layer : Layer that receives input data.
+5. Hidden Layer : Layer(s) where learning and feature extraction happen.
+6. Output Layer : Layer that produces final prediction.
+7. Activation Function : Adds non-linearity so the model can learn complex patterns.
+(ReLU, Sigmoid, Softmax)
+8. Forward Propagation : Flow of data from input to output.
+9. Loss Function : Measures prediction error.
+(MSE, Cross-Entropy)
+10. Backpropagation : Process of updating weights using error.
+11. Gradient : Rate of change of loss with respect to weights.
+12. Gradient Descent : Optimization technique to minimize loss.
+13. Learning Rate : Controls how fast the model learns.
+14. Epoch : One full pass of data through the network.
+15. Batch Size : Number of samples processed at once.
+16. Overfitting : Model learns training data too well.
+17. Underfitting : Model fails to learn patterns.
+18. Regularization : Techniques to reduce overfitting.
+(L1, L2, Dropout)
+19. Dropout : Randomly disables neurons during training.
+20. Optimizer : Algorithm used to update weights.
+(Adam, SGD)
