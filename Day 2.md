@@ -1,0 +1,34 @@
+### Token
+A token is a unit of text that an LLM processes.
+Tokens can be:
+   Whole words (e.g., “apple”)
+   Subword pieces (e.g., “un”, “hap”, “py”)
+   Punctuation (e.g., “,”, “!”)
+Different tokenizers split text differently, but the model always works at the token level when predicting and generating text.
+
+### Transformer:
+A Transformer is the neural architecture behind modern LLMs like GPT, Claude, Gemini, etc.
+
+#### Key Features:
+1. Self-Attention
+   * Allows the model to learn which tokens matter most in the context of other tokens.
+   * This is what lets LLMs “remember” dependencies across the whole sequence.
+2.Parallelization
+   * Unlike older RNNs/LSTMs, transformers process many tokens simultaneously, making them faster and more scalable.
+3.Layers
+  * Each transformer block has attention + feed-forward parts.
+  * Stacking many layers gives the model depth — hence the name Deep Learning.
+  Transformers power almost all modern LLMs because they can model long sequences efficiently.
+
+### Token Limit (Context Window):
+In Large Language Models (LLMs), the token limit (or context window size) is the maximum number of tokens the model can process in one request — including both:
+  * the input text you provide
+  * the output the model generates.
+If you exceed the limit, the model may truncate parts of the text or fail to include it in reasoning.
+
+#### Largest current token limits:
+-> Google Gemini (Pro): ~1M–2M tokens
+-> OpenAI GPT-4.1 (API): ~1M tokens
+-> Claude & some models (beta long context): ~1M tokens
+-> Standard GPT-4o / LLaMA 3: ~128K tokens
+   (all values as of 2025).
