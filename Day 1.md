@@ -1,0 +1,125 @@
+### Neural Networks
+A Neural Network (NN) is a computational model inspired by the human brain, consisting of interconnected nodes (neurons) that process data and learn patterns.
+
+### History Of Neural Netwroks:
+1943 - First Artifical Neuron Model By McCulloch And Pitts.
+1958 - Rosenblatt Develops The Perception.
+1970 - Al Winter Due to Perceptron Limitations.
+1986 - Hinton Introduces Backpropagation.
+2012 - CNN Wins ImageNet Competition Boosting Deep Learning.
+2020 - Transformers Advance AI In NLP And Generative Models.
+
+### Basic Structure:
+* Input Layer – Receives raw data
+* Hidden Layer(s) – Processes data using weights and activation functions
+* Output Layer – Produces predictions or classifications
+
+### Neural Network Terminologies
+1. Neuron : Basic processing unit that mimics a brain cell.
+2. Weight : Value that controls the influence of an input.
+3. Bias: Extra value added to improve model flexibility.
+4. Input Layer : Layer that receives input data.
+5. Hidden Layer : Layer(s) where learning and feature extraction happen.
+6. Output Layer : Layer that produces final prediction.
+7. Activation Function : Adds non-linearity so the model can learn complex patterns.
+(ReLU, Sigmoid, Softmax)
+8. Forward Propagation : Flow of data from input to output.
+9. Loss Function : Measures prediction error.
+(MSE, Cross-Entropy)
+10. Backpropagation : Process of updating weights using error.
+11. Gradient : Rate of change of loss with respect to weights.
+12. Gradient Descent : Optimization technique to minimize loss.
+13. Learning Rate : Controls how fast the model learns.
+14. Epoch : One full pass of data through the network.
+15. Batch Size : Number of samples processed at once.
+16. Overfitting : Model learns training data too well.
+17. Underfitting : Model fails to learn patterns.
+18. Regularization : Techniques to reduce overfitting.
+(L1, L2, Dropout)
+19. Dropout : Randomly disables neurons during training.
+20. Optimizer : Algorithm used to update weights.
+(Adam, SGD)
+
+### How Neural Networks Work
+* Input data is multiplied by weights
+* Bias is added
+* Activation function is applied
+* Error is calculated
+* Weights are updated using backpropagation
+* 
+### Types of Neural Networks
+#### 1. Artificial Neural Network (ANN)
+Description:
+Basic structure: input → hidden → output layers
+Used for:
+Simple prediction and classification
+Examples:
+Spam email detection Exam score prediction
+#### 2. Convolutional Neural Network (CNN)
+Description:
+Designed for image and visual data Detects patterns like edges and shapes
+Used for:
+Image recognition Face detection 📌 Note: CNNs are not used in LLMs
+#### 3. Recurrent Neural Network (RNN)
+Description:
+Works with sequential data Remembers previous inputs
+Used for:
+Early NLP and speech models
+Limitation:
+Poor performance with long context
+
+#### Advantages
+* Learns complex patterns
+* Handles non-linear data
+* Improves performance with more data
+
+#### Limitations
+* Requires large datasets
+* High computational cost
+* Less interpretable (black-box nature)
+
+#### Real-Time Use Cases of Neural Networks
+1. Healthcare
+-> Disease detection from X-rays and MRI scans
+-> Heart disease and diabetes prediction
+-> Medical chatbots for patient support
+2. Banking & Finance
+-> Real-time fraud detection
+-> Credit scoring systems
+
+### Deep Learning
+Deep Learning (DL) is a subset of machine learning that uses multi-layered neural networks (deep neural networks) to automatically learn high-level features from large datasets.
+
+#### Key Concepts 
+1. Deep Neural Network (DNN): Neural network with many hidden layers
+2. Feature Learning: Automatically extracts features from raw data
+3. Activation Functions: Enable learning of complex patterns (ReLU, Softmax)
+4. Backpropagation: Updates weights using error
+5. Loss Function: Measures prediction error
+6. Optimizer: Minimizes loss (Adam, SGD)
+7. GPU/TPU: Hardware used to speed up training
+8. Big Data: Large datasets required for accuracy
+
+#### Types of Deep Learning Models
+1. CNN (Convolutional Neural Network): Image & video processing
+2. RNN (Recurrent Neural Network): Sequential data
+3. LSTM: Long-term sequence learning
+4. Transformers: Language models (LLMs like GPT)
+5. Autoencoders: Data compression & anomaly detection
+
+#### Real-Time Use Cases
+* Healthcare: Disease detection from scans
+* Self-Driving Cars: Object & lane detection
+* Chatbots: NLP & conversational AI
+* Finance: Fraud detection
+* E-Commerce: Recommendation systems
+* Voice Assistants: Speech recognition
+
+#### Advantages
+-> High accuracy
+-> Automatic feature extraction
+-> Handles complex data (images, text, audio)
+
+#### Limitations
+-> Needs large dataHigh computational cost
+-> Less interpretable
