@@ -14,7 +14,6 @@ In contrast, Non-Generative (Traditional) AI analyzes data, recognizes patterns,
 #### PHASE 8: Fine-Tuning & Model Customization
 #### PHASE 9: Multimodal AI
 #### PHASE 10: Deployment & Cloud GenAI
-<img width="380" height="355" alt="image" src="https://github.com/user-attachments/assets/8ed7fb33-0e37-49e4-a661-89e014b8cc83" />
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -27,7 +26,9 @@ Artificial Intelligence is the ability of machines to simulate human intelligenc
 * Problem solving
 * Understanding language
 * Perception (vision/speech)
-  
+
+<img width="380" height="355" alt="image" src="https://github.com/user-attachments/assets/8ed7fb33-0e37-49e4-a661-89e014b8cc83" />
+
 AI is based on core concepts and technologies that enable machines to learn, reason and make decisions on their own.
 1.Machine Learning
 2.Generative AI
