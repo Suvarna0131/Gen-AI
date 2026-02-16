@@ -31,9 +31,13 @@ Artificial Intelligence is the ability of machines to simulate human intelligenc
 
 AI is based on core concepts and technologies that enable machines to learn, reason and make decisions on their own.
 1.Machine Learning
+
 2.Generative AI
+
 3.Natural Language Processing
+
 4.Expert Systems.
+
 <img width="692" height="348" alt="image" src="https://github.com/user-attachments/assets/8482c558-5b06-41fb-b944-f459c33fe986" />
 #### Types of AI are divided into two category
 1.Based on Capabilities
@@ -61,11 +65,13 @@ AI is based on core concepts and technologies that enable machines to learn, rea
 * Purely reactive machines are the most basic types of AI.
 * Such AI systems do not store memories or past experiences for future acrions.
 * These machines only focus on current scenarios and react on it as per possible best acrion.
-🔹 Characteristics
+  
+🔹 Characteristics:
 ✔ No memory
 ✔ No learning
 ✔ No self-awareness
 ✔ Respond only to present data
+
 🔹 Example
 IBM Deep Blue
 It defeated:
@@ -74,6 +80,7 @@ Deep Blue:
 Could analyze chess moves
 Could not remember previous games
 Could not improve by learning
+
 🔹 Real-Life Example
 A simple chatbot that:
 Matches keywords
@@ -83,11 +90,13 @@ Does not remember conversation
 2️⃣ Limited Memory AI
 * Limitedt memory machines can store past experiences or some data for a short period of time.
 * These machines can use stored data for a limited time period only.
+  
 🔹 Characteristics
 ✔ Uses historical data
 ✔ Improves over time
 ✔ Learns from experience
 ✔ Not self-aware
+
 🔹 Examples
 Self-driving cars, Recommendation systems, Image recognition models, Most ML & Deep Learning models
 Examples:
@@ -98,10 +107,12 @@ Use past data for predictions, Improve with training, But don’t have emotions 
 3️⃣ Theory of Mind AI
 * Theory of Mind AI should understand the human emotions, people, beliefs and be able to interact socially like humans.
 * This type does NOT exist yet.
+  
 🔹 What It Would Do
 ✔ Recognize emotional state
 ✔ Adapt behavior accordingly
-✔ Understand social context
+✔ Understand social context.
+
 Example (future):
 Robot that understands if you are sad and responds emotionally.
 🔹 Current Status
@@ -112,10 +123,12 @@ No fully developed system exists.
 * Self-awareness AI is the future of Aritifical Intelligence. These machines will be super intelligent, and will have their own consciousness, sentiments and self-awareness.
 * These machines will be smarter than human mind.
 * Slef-Awareness AI does not exist in reality still and it is a hypothetical concept.
+  
 🔹 Characteristics
 ✔ Consciousness
 ✔ Self-reflection
 ✔ Personal goals
+
 🔹 Reality
 Does NOT exist.
 Only theoretical and seen in movies.
