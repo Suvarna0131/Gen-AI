@@ -27,6 +27,7 @@ Artificial Intelligence is the ability of machines to simulate human intelligenc
 * Problem solving
 * Understanding language
 * Perception (vision/speech)
+  
 AI is based on core concepts and technologies that enable machines to learn, reason and make decisions on their own.
 1.Machine Learning
 2.Generative AI
