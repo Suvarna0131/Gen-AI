@@ -15,7 +15,9 @@ In contrast, Non-Generative (Traditional) AI analyzes data, recognizes patterns,
 #### PHASE 9: Multimodal AI
 #### PHASE 10: Deployment & Cloud GenAI
 <img width="380" height="355" alt="image" src="https://github.com/user-attachments/assets/8ed7fb33-0e37-49e4-a661-89e014b8cc83" />
+
 -------------------------------------------------------------------------------------------------------------------------------------------
+
 ### AI & ML Fundamentals:
 #### AI(Artificial Intelligence):
 Artificial Intelligence is the ability of machines to simulate human intelligence.
@@ -34,7 +36,9 @@ AI is based on core concepts and technologies that enable machines to learn, rea
 #### Types of AI are divided into two category
 1.Based on Capabilities
 2.Based on Functionality
+
 -----------------------------------------------------------------------------------------------------------------------------
+
 ### Based on Capabilities: This classification defines how human-like the AI is, focusing on its ability to reason and perform tasks. 
 1️⃣ Narrow AI (Weak AI):
 * Narrow AI is a type of AI Which is able to perform a dedicated task with intelligence.The most common and currently available AI is Narrow AI in the world of AI.
