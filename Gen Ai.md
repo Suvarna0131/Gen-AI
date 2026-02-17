@@ -160,10 +160,15 @@ Output: Predicted new house price
 <img width="1020" height="461" alt="image" src="https://github.com/user-attachments/assets/2f4b8cc2-e539-4d24-8400-c5a778c92f99" />
 
 #### Types of Machine Learning
+
 1.Supervised Learning
+
 2.Unsupervised Learning
+
 3.Reinforcement Learning
+
 4.Semi-Supervised Learning
+
 5.Self-Supervised Learning
 
 #### 1.Supervised Learning:
