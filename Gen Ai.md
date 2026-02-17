@@ -173,6 +173,9 @@ Output: Predicted new house price
 
 #### 1.Supervised Learning:
 Trains models on labeled data to predict or classify new, unseen data.
+
+<img width="818" height="403" alt="image" src="https://github.com/user-attachments/assets/486b591d-bf32-4264-bf1f-cace47ea377a" />
+
 Supervised learning algorithms are generally categorized into two main types:
 
 ##### 1.Classification: where the goal is to predict discrete labels or categories 
@@ -297,7 +300,78 @@ It is like an advanced version of Linear Regression.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#### 2.Un-Supervised Learning:
+Finds patterns or groups in unlabeled data, like clustering or dimensionality reduction.
 
+<img width="786" height="399" alt="image" src="https://github.com/user-attachments/assets/41590240-c512-4462-9d41-69139f4aec50" />
+
+
+Unsupervised learning are again divided into three main categories based on their purpose: 
+
+##### 1.Clustering 
+Clustering algorithms group data points into clusters based on their similarities or differences. Types of clustering algorithms are:
+
+Centroid-based Methods:
+
+* K-Means clustering
+
+* Elbow Method for optimal value of k in KMeans
+
+* K-Means++ clustering
+
+* K-Mode clustering
+
+* Fuzzy C-Means (FCM) Clustering
+
+Distribution-based Methods:
+
+* Gaussian mixture models
+
+* Expectation-Maximization Algorithm
+
+* Dirichlet process mixture models (DPMMs)
+
+Connectivity based methods:
+
+* Hierarchical clustering
+
+* Agglomerative Clustering
+
+* Divisive clustering
+
+* Affinity propagation
+
+Density Based methods:
+
+* DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
+
+* OPTICS (Ordering Points To Identify the Clustering Structure)
+
+##### 2.Association Rule Mining:
+Find patterns between items in large datasets typically in market basket analysis.
+
+Apriori algorithm
+
+Implementing apriori algorithm
+
+FP-Growth (Frequent Pattern-Growth)
+
+ECLAT (Equivalence Class Clustering and bottom-up Lattice Traversal)
+
+##### 3.Dimensionality Reduction:
+Dimensionality reduction is used to simplify datasets by reducing the number of features while retaining the most important information.
+
+Principal Component Analysis (PCA)
+
+t-distributed Stochastic Neighbor Embedding (t-SNE)
+
+Non-negative Matrix Factorization (NMF)
+
+Independent Component Analysis (ICA)
+
+Isomap
+
+Locally Linear Embedding (LLE)
 
 
 
