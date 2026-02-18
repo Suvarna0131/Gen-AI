@@ -373,6 +373,53 @@ Isomap
 
 Locally Linear Embedding (LLE)
 
+-------------------------------------------------------------------------------------------------------------------------------------------
+#### 3.Reinforcement Learning
+Reinforcement learning interacts with environment and learn from them based on rewards.
+<img width="609" height="408" alt="image" src="https://github.com/user-attachments/assets/fd3e5e00-26bb-464a-8678-9f2c58750ea4" />
+
+1. Model-Based Methods
+These methods use a model of the environment to predict outcomes and help the agent plan actions by simulating potential results.
+
+Markov decision processes (MDPs)
+
+Bellman equation
+
+Value iteration algorithm
+
+Monte Carlo Tree Search
+
+2. Model-Free Methods
+The agent learns directly from experience by interacting with the environment and adjusting its actions based on feedback.
+
+Q-Learning
+
+SARSA
+
+Monte Carlo Methods
+
+Reinforce Algorithm
+
+Actor-Critic Algorithm
+
+Asynchronous Advantage Actor-Critic (A3C)
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+#### 4.Semi-Supervised Learning:
+It uses a mix of labeled and unlabeled data making it helpful when labeling data is costly or it is very limited.
+
+<img width="775" height="382" alt="image" src="https://github.com/user-attachments/assets/4bc538ae-c642-489c-95e4-c6f2f7da5cf8" />
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+#### 5.Self-Supervised Learning:
+Self-Supervised Learning (SSL) is a type of machine learning where a model is trained using data that does not have any labels or answers provided. Instead of needing people to label the data, the model finds patterns and creates its own labels from the data automatically.
+
+<img width="799" height="394" alt="image" src="https://github.com/user-attachments/assets/d020a0d0-50d0-4294-a019-8ac8b0ab1322" />
+
+
+
 
 
 
